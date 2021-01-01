@@ -1,0 +1,10 @@
+Starbuck,20021312,15
+Dunkin,20197465,9.18
+Home Depot,20031563,13.2
+Dunkin,20097465,9.8
+Holiday Inn,20202749,14.2
+Stater Bros,20180743,23
+Jasmine bro,20199584,41.6
+Home Depot,20061563,23.7
+Starbuck,20071312,5.61
+Holiday Inn,20182749,14.9
